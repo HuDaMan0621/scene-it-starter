@@ -1,6 +1,6 @@
 var movieData = [
 	{	
-		Intro: "https://www.youtube.com/embed/xLcHPsWK5xg",
+		Intro: "https://www.youtube.com/embed/xLcHPsWK5xg/autoplay=1",
 		Title: "The Dark Knight",
 		Year: "2008",
 		imdbID: "tt0468569",
@@ -9,7 +9,7 @@ var movieData = [
 		"https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg"
 	},
 	{
-		Intro: "https://www.youtube.com/embed/xLcHPsWK5xg",
+		Intro: "https://www.youtube.com/embed/GokKUqLcvD8",
 		Title: "The Dark Knight Rises",
 		Year: "2012",
 		imdbID: "tt1345836",
@@ -18,7 +18,7 @@ var movieData = [
 			"https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg"
 	},
 	{	
-		Intro: "https://www.youtube.com/embed/xLcHPsWK5xg",
+		Intro: "https://www.youtube.com/embed/npvJ9FTgZbM",
 		Title: "Thor: The Dark World",
 		Year: "2013",
 		imdbID: "tt1981115",
@@ -27,7 +27,7 @@ var movieData = [
 			"https://ia.media-imdb.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_SX300.jpg"
 	},
 	{	
-		Intro: "https://www.youtube.com/embed/xLcHPsWK5xg",
+		Intro: "https://www.youtube.com/embed/RonS_bJ7mcU",
 		Title: "Transformers: Dark of the Moon",
 		Year: "2011",
 		imdbID: "tt1399103",
@@ -36,7 +36,7 @@ var movieData = [
 			"https://images-na.ssl-images-amazon.com/images/M/MV5BMTkwOTY0MTc1NV5BMl5BanBnXkFtZTcwMDQwNjA2NQ@@._V1_SX300.jpg"
 	},
 	{	
-		Intro: "https://www.youtube.com/embed/xLcHPsWK5xg",
+		Intro: "https://www.youtube.com/embed/LJFra3B9sbA",
 		Title: "Zero Dark Thirty",
 		Year: "2012",
 		imdbID: "tt1790885",
@@ -45,7 +45,7 @@ var movieData = [
 			"https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4OTUyNzcwN15BMl5BanBnXkFtZTcwMTQ1NDE3OA@@._V1_SX300.jpg"
 	},
 	{	
-		Intro: "https://www.youtube.com/embed/xLcHPsWK5xg",
+		Intro: "https://www.youtube.com/embed/N6tVdffCr_M",
 		Title: "Dark Shadows",
 		Year: "2012",
 		imdbID: "tt1077368",
